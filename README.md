@@ -2,6 +2,10 @@
 
 This is a classic Minesweeper game implemented using React, HTML, CSS, and JavaScript.
 
+## Live Demo
+
+You can play the game live [here](https://your-game-url.com).
+
 ## Game Rules
 
 1. The game board consists of a grid of cells.
