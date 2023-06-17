@@ -1,7 +1,8 @@
-# react-minesweeper# Minesweeper Game
+# React Minesweeper
+
+![Minesweeper](https://store-images.s-microsoft.com/image/apps.23030.13640194727621457.b1c92f5c-af7b-4e8d-8f5f-fd4fab76d693.211d23e9-a4a7-4749-b594-34fff399a20d)
 
 This is a classic Minesweeper game implemented using React, HTML, CSS, and JavaScript.
-
 
 ## Game Rules
 
@@ -24,24 +25,17 @@ To run the game locally on your machine, follow these steps:
    git clone github.com/roeeziv/react-minesweeper.git
    ```
 
-2. Navigate to the project directory:
+2. Open the project directory.
 
-   ```sh
-   cd react-minesweeper
-   ```
+3. Install a live server extension in your code editor, such as the "Live Server" extension for Visual Studio Code.
 
-3. Install the dependencies:
+4. Open the `index.html` file in your code editor.
 
-   ```sh
-   npm install
-   ```
+5. Start the live server by clicking on the "Go Live" button in the bottom navigation bar of your code editor.
 
-4. Start the development server:
+   ![Go Live](https://ritwickdey.github.io/vscode-live-server/images/Screenshot/vscode-live-server-statusbar-3.jpg)
 
-   ```sh
-   npm start
-   ```
-    Make sure to [use the production build](https://reactjs.org/docs/optimizing-performance.html#use-the-production-build) before deployment.
+6. The game will open in your default web browser, and you can start playing Minesweeper.
 
 ## Project Structure
 
@@ -62,10 +56,7 @@ To run the game locally on your machine, follow these steps:
 
 ## Stack
 
--   Node.js 19
--   React 18
-
+- Node.js 19
+- React 18
 
 Enjoy playing Minesweeper!
-
-
